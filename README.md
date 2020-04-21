@@ -1,7 +1,7 @@
 # Listening Bug Using Op-Amp 741
 We can use this circuit for spying i.e., to hear the conversation going on in other room.<br>
 The **Listening bug** uses on op-amp 741 which amplify the signal we get from the microphone.
-## <ins>Materials required</ins>
+## <ins>Materials Required</ins>
 1. IC LM741
 2. Transistor
    * T1 = 2N2222 (Silicon NPN Transistor)
@@ -28,5 +28,5 @@ The **Listening bug** uses on op-amp 741 which amplify the signal we get from th
  A voltage divider network is designed using two 10K resistors (R3 and R4) in order to set reference voltage at non-inverting pin (**Pin 3**). Pure DC power supply of 9V to 15V is given in **pin 7** where as **pin 4** is grounded. Feedback network is designed using one resistor (R5) and one variable resistor (VR1) as shown in figure. The amplified output is taken from **pin 6** which is used to drive the complementary pair transistor (T1 and T2). There we had used complementary pair in order to provide more power to the speaker. Capacitor C2 is used to filter out the DC component if available any.<br>
 <br>
 **Note: If there is hissing sound coming from the speaker, then we have to change the power supply unit because we need Pure DC power supply unit. Use battery if possible. Capacitor C3 is used here in order to smooth DC power supply. Before using microphone and speaker, please check the appropriate polarity of these two components.**
-## Reference
+## <ins>Reference</ins>
 * https://bestengineeringprojects.com/listening-bug-using-op-amp-741/
