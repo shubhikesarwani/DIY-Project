@@ -19,7 +19,8 @@ The **Listening-bug circuit** uses on op-amp 741 which amplify the signal we get
    * C2 = 470 µF/25V
    * C3 = 250 µF/25V
 ## <ins>Circuit Diagram</ins>
-![listening-bug-circuit-using-741](https://user-images.githubusercontent.com/58383754/79861123-80d4ad00-83f1-11ea-9573-5e900e72ffab.png)
+![circuit](https://user-images.githubusercontent.com/58383754/79870223-49213180-8400-11ea-9f3d-5d08e108cd51.png)
+
 ## <ins>Circuit Description</ins>
  A microphone is a transducer which converts audio signal to voltage in range of milli which further need amplification. A long wire from microphone is connected to inverting input (**pin 2**) of IC1 through resistor R2 and capacitor C1. The output of IC1 from **pin 6** is given to base of transistor T1 and T2.<br>
 <br>
