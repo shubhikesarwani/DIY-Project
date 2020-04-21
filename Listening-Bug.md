@@ -1,6 +1,6 @@
 # Listening Bug Using Op-Amp 741
 This circuit is used to amplify the audio signal received from the the Microphone in the form of voltage so that we can have a clear perception of the audio. We can use this circuit for spying i.e., to hear the conversation going on in other room.<br>
-The **Listening-bug circuit** uses an op-amp 741 which amplifies the signal we get from the microphone. Then this amplified signal is filtered using the capacicitor.
+<br>The **Listening-bug circuit** uses an op-amp 741 which amplifies the signal we get from the microphone. Then this amplified signal is filtered using the capacicitor.
 ## <ins>Materials Required</ins>
 1. IC LM741
 2. Transistor
