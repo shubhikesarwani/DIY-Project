@@ -1,6 +1,6 @@
 # Listening Bug Using Op-Amp 741
 We can use this circuit for spying i.e., to hear the conversation going on in other room.<br>
-The **Listening bug** uses on op-amp 741 which amplify the signal we get from the microphone.
+The **Listening-bug circuit** uses on op-amp 741 which amplify the signal we get from the microphone.
 ## <ins>Materials Required</ins>
 1. IC LM741
 2. Transistor
